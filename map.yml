@@ -1,0 +1,5 @@
+map_name: '2020'
+games:
+- game_name: '2020'
+  file_name: 2020.xml
+version: 0
